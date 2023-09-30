@@ -1,0 +1,38 @@
+URLs for next Lecture
+Some of these URLs may be complex to write by hand:
+
+Refer back to here if you have problems in the next steps.
+
+
+
+Initial
+http://localhost:8765/currency-exchange/from/VND/to/USD
+- http://localhost:8765/{SERVICE_NAME}/currency-exchange/from/VND/to/USD
+
+
+  http://localhost:8765/CURRENCY-EXCHANGE-SERVICE/currency-exchange/from/VND/to/USD
+- http://localhost:8765/CURRENCY-CONVERSION-SERVICE/currency-conversion/from/USD/to/USD/quantity/10
+
+- http://localhost:8765/CURRENCY-CONVERSION-SERVICE/currency-conversion-feign/from/VND/to/USD/quantity/10
+
+
+
+Lower Case
+
+- http://localhost:8765/currency-exchange-service/currency-exchange/from/VND/to/USD
+
+- http://localhost:8765/currency-conversion-service/currency-conversion-feign/from/VND/to/USD/quantity/10
+
+
+
+
+Custom Routes
+
+- http://localhost:8765/currency-exchange/from/VND/to/USD
+
+- http://localhost:8765/currency-conversion/from/VND/to/INR/quantity/10
+
+- http://localhost:8765/currency-conversion-feign/from/VND/to/USD/quantity/10
+
+- http://localhost:8765/currency-conversion-new/from/VND/to/USD/quantity/10
+

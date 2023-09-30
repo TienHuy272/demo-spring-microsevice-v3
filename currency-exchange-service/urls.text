@@ -1,0 +1,6 @@
+Currency Exchange Sevice
+http://127.0.0.1:8000/currency-exchange/from/VND/to/USD
+
+http://127.0.0.1:8000/currency-conversion/from/VND/to/USD/quantity/1000
+
+http://localhost:8000/currency-exchange/from/VND/to/USD
